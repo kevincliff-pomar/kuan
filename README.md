@@ -19,5 +19,5 @@
 
 ```sh
 $ git clone https://github.com/kevincliff-pomar/kuan.git
-$ cd fluttergram/
+$ cd kuan/
 ```
